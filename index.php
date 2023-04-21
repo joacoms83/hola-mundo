@@ -8,6 +8,6 @@
 </head>
 <body>
   <h1>Bienvenidos Hola Mundo</h1>
-  <h2>ChoicesPracticas Profesionalizantes2023</2>
+  <h2>Esto es una prueba Practicas Profesionalizantes2023</2>
 </body>
 </html>
